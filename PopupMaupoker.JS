@@ -2,7 +2,7 @@
 
 (function () {
   const IMG = [
-    "http://plcl.me/images/Jus4J.jpg",
+    "http://plcl.me/images/JRpx3.jpg",
   ];
 
   const DELAY_KEY = "popup_delay_1h";
