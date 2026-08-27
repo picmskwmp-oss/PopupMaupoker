@@ -335,16 +335,6 @@
         box-shadow: 0 0 10px #ff8c1a;
       }
 
-      #maupoker-title {
-        font-weight: 900;
-        font-size: 16px;
-        color: #ffe0b5;
-        letter-spacing: 2px;
-        text-shadow:
-          0 0 10px rgba(255, 140, 26, .9),
-          0 0 25px rgba(255, 140, 26, .55);
-      }
-
       .maupoker-gif-row {
         display: flex;
         gap: 10px;
@@ -546,7 +536,7 @@
           <img
             id="maupoker-popup-img"
             src="${IMG[0]}"
-            alt="Dirgahayu Indonesia Slide 1"
+            alt="MAUPOKER Slide 1"
           >
 
           <img
@@ -687,7 +677,7 @@
 
       nextSliderImage.src = IMG[newIndex];
       nextSliderImage.alt =
-        "Dirgahayu Indonesia Slide " + (newIndex + 1);
+        "MAUPOKER Slide " + (newIndex + 1);
 
       nextSliderImage.style.transition = "none";
       nextSliderImage.style.opacity = "0";
@@ -718,7 +708,7 @@
 
         sliderImage.src = IMG[currentIndex];
         sliderImage.alt =
-          "Dirgahayu Indonesia Slide " +
+          "MAUPOKER Slide " +
           (currentIndex + 1);
 
         sliderImage.classList.remove("slide-old-left");
