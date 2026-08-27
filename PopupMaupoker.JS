@@ -569,10 +569,6 @@
         <div id="maupoker-dots"></div>
       </div>
 
-      <div id="maupoker-title">
-        DIRGAHAYU INDONESIA
-      </div>
-
       <div class="maupoker-gif-row">
 
         <div class="maupoker-gif-box">
