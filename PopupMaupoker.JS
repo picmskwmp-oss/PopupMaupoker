@@ -2,7 +2,7 @@
 
 (function () {
   const IMG = [
-    "http://plcl.me/images/JRpx3.jpg",
+    "https://www.image2url.com/r2/default/files/1794890806716-c5bbbd7a-1af1-42fe-b2fe-21aeb1870710.jpg",
   ];
 
   const DELAY_KEY = "popup_delay_1h";
